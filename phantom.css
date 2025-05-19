@@ -1,6 +1,6 @@
-/* ==================== */
+/* o((>ω< ))o */
 /* VARIABLES & RESET */
-/* ==================== */
+/* o((>ω< ))o */
 :root {
   --black: #0a0c0a;
   --red: #b30000;
@@ -53,9 +53,9 @@ button {
   cursor: pointer;
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* UTILITY CLASSES */
-/* ==================== */
+/* o((>ω< ))o */
 .container {
   width: 90%;
   max-width: 1200px;
@@ -121,9 +121,9 @@ button {
   margin: 20px 0;
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* HEADER STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 .header {
   position: sticky;
   top: 0;
@@ -228,9 +228,9 @@ button {
   transition: all 0.3s;
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* FOOTER STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 .footer {
   background-color: var(--black);
   color: var(--white);
@@ -280,9 +280,9 @@ button {
   color: var(--red);
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* HERO STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 .blood-hero,
 .contact-hero,
 .history-hero {
@@ -449,9 +449,9 @@ button {
   z-index: 2;
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* BOOKING PAGE STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 .booking-page {
   display: flex;
   align-items: center;
@@ -533,9 +533,9 @@ button {
   background-color: var(--dark-red);
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* DESIGN PAGE STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 .grid-container {
   columns: 2;
   column-gap: 16px;
@@ -635,9 +635,9 @@ button {
   color: var(--red);
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* HISTORY PAGE STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 .history-hero {
   background: linear-gradient(rgba(10, 12, 10, 0.9), rgba(10, 12, 10, 0.7)), 
               url('images/bw.png') center/cover no-repeat;
@@ -946,9 +946,9 @@ button {
   animation: pulse 5s infinite alternate;
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* HOME PAGE STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 .featured-designs {
   padding: 100px 0;
 }
@@ -1328,9 +1328,9 @@ button {
   color: var(--red);
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* CONTACT PAGE STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 .contact-section {
   padding: 80px 0;
   background-color: var(--black);
@@ -1448,9 +1448,9 @@ button {
   overflow: hidden;
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* ANIMATIONS */
-/* ==================== */
+/* o((>ω< ))o */
 @keyframes noise-anim {
   0% { clip: rect(30px, 9999px, 20px, 0); }
   10% { clip: rect(10px, 9999px, 80px, 0); }
@@ -1514,9 +1514,9 @@ button {
   50% { transform: rotate(-45deg) scale(1.2); }
 }
 
-/* ==================== */
+/* o((>ω< ))o */
 /* RESPONSIVE STYLES */
-/* ==================== */
+/* o((>ω< ))o */
 @media (max-width: 768px) {
   .nav {
     position: fixed;
